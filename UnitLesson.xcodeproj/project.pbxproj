@@ -17,6 +17,8 @@
 		CED9B8DF28491F0900D1C9E5 /* CarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED9B8DE28491F0900D1C9E5 /* CarTests.swift */; };
 		CED9B8E128492A3400D1C9E5 /* ValidationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED9B8E028492A3400D1C9E5 /* ValidationService.swift */; };
 		CED9B8E3284932A900D1C9E5 /* ValidationServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED9B8E2284932A900D1C9E5 /* ValidationServiceTests.swift */; };
+		CED9B8E5284A231500D1C9E5 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED9B8E4284A231500D1C9E5 /* Calculator.swift */; };
+		CED9B8E7284A24E900D1C9E5 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED9B8E6284A24E900D1C9E5 /* CalculatorTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +45,8 @@
 		CED9B8DE28491F0900D1C9E5 /* CarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarTests.swift; sourceTree = "<group>"; };
 		CED9B8E028492A3400D1C9E5 /* ValidationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationService.swift; sourceTree = "<group>"; };
 		CED9B8E2284932A900D1C9E5 /* ValidationServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationServiceTests.swift; sourceTree = "<group>"; };
+		CED9B8E4284A231500D1C9E5 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		CED9B8E6284A24E900D1C9E5 /* CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,7 @@
 				CED9B8C628491B9100D1C9E5 /* LaunchScreen.storyboard */,
 				CED9B8C928491B9100D1C9E5 /* Info.plist */,
 				CED9B8E028492A3400D1C9E5 /* ValidationService.swift */,
+				CED9B8E4284A231500D1C9E5 /* Calculator.swift */,
 			);
 			path = UnitLesson;
 			sourceTree = "<group>";
@@ -102,6 +107,7 @@
 			children = (
 				CED9B8DE28491F0900D1C9E5 /* CarTests.swift */,
 				CED9B8E2284932A900D1C9E5 /* ValidationServiceTests.swift */,
+				CED9B8E6284A24E900D1C9E5 /* CalculatorTests.swift */,
 			);
 			path = UnitLessonTests;
 			sourceTree = "<group>";
@@ -212,6 +218,7 @@
 				CED9B8BC28491B9000D1C9E5 /* AppDelegate.swift in Sources */,
 				CED9B8DD28491CA200D1C9E5 /* Car.swift in Sources */,
 				CED9B8BE28491B9000D1C9E5 /* SceneDelegate.swift in Sources */,
+				CED9B8E5284A231500D1C9E5 /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +227,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CED9B8E3284932A900D1C9E5 /* ValidationServiceTests.swift in Sources */,
+				CED9B8E7284A24E900D1C9E5 /* CalculatorTests.swift in Sources */,
 				CED9B8DF28491F0900D1C9E5 /* CarTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
